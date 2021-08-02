@@ -2,7 +2,7 @@
 
 Учебный скрипт по работе с Django ORM. 
 Меняем записи в электроном дневнике.
-Сам дневник без БД хранится [https://github.com/devmanorg/e-diary](здесь)
+Сам дневник без БД хранится в репозитории [https://github.com/devmanorg/e-diary](https://github.com/devmanorg/e-diary)
 
 ## Установка
 Скопируйте файл scripts.py в корень сайта, рядом с manage.py
